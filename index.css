@@ -507,7 +507,7 @@ font-family: "PT Sans";
   width: 100%;
   flex-direction: column;
   gap: 74px;
-  background-image: url("/dark.jpg");
+  background-image: url("dark.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: top;
