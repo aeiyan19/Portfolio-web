@@ -1,3 +1,6 @@
+body{
+  background:url("dark.jpg")
+}
 @font-face {
   font-family: "Geek Trend Demo";
   src: url("GeekTrendDemoRegular-qZl6x.ttf");
